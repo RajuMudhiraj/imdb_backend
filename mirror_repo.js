@@ -1,0 +1,1 @@
+git push --mirror git@github.com:RajuMudhiraj/imdb_backend.git

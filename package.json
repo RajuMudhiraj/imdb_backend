@@ -1,0 +1,34 @@
+{
+  "name": "-MS_Imdb_Draco_Tep_Online_Full-time_2021_2",
+  "version": "1.0.0",
+  "description": "## Learning competencies:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "prod": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/-MS_Imdb_Draco_Tep_Online_Full-time_2021_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/-MS_Imdb_Draco_Tep_Online_Full-time_2021_2/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/-MS_Imdb_Draco_Tep_Online_Full-time_2021_2#readme",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.9.0"
+  }
+}
